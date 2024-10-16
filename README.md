@@ -37,12 +37,12 @@ This project is a simple Flutter UI application for managing events and hackatho
 ## Screenshots
 
 ### Login Screen
-![Login Screen](img.png) <!-- Replace with your actual screenshot path -->
+![Login Screen](lib/img.png) <!-- Replace with your actual screenshot path -->
 
 ### Signup Screen
-![Signup Screen](img1.png) <!-- Replace with your actual screenshot path -->
+![Signup Screen](lib/img1.png) <!-- Replace with your actual screenshot path -->
 
 ### Home Screen
-![Home Screen](img2.png) <!-- Replace with your actual screenshot path -->
+![Home Screen](lib/img2.png) <!-- Replace with your actual screenshot path -->
 
 
